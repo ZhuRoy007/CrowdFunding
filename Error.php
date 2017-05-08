@@ -38,7 +38,7 @@ $error_info = $_SESSION["error_info"];
 </div>
 
 <?php
-#test for commit
+#test for commit 2
 ?>
 </body>
 </html>
